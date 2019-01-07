@@ -1,0 +1,2 @@
+algoritm2.Algoritm2
+algoritm2.GraphStronglyConnectedComponentTest
